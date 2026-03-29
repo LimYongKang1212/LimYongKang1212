@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">I'm Yong Kang, I'm a;<br><br>1. IT (Majoring in Data Science) Degree Student who graduated from UUM in 2024 👨‍🎓<br><br>2. Industrial Trainee (MIS Hardware Team) at ViTrox (Oct 2023 to Apr 2024) 👨‍💻<br><br>3. Smart Manufacturing Specialist at Keysight Technologies (Nov 2024 - Now)  👨‍💻</h4>
+<h4 align="left">I'm Yong Kang, I'm a;<br><br>1. IT (Majoring in Data Science) Degree Student who graduated from UUM (Universiti Utara Malaysia) in 2024 👨‍🎓<br><br>2. Industrial Trainee (MIS Hardware Team) at ViTrox (Oct 2023 to Apr 2024) 👨‍💻<br><br>3. Smart Manufacturing Specialist at Keysight Technologies (Nov 2024 - Now)  👨‍💻</h4>
 
 ###
 
